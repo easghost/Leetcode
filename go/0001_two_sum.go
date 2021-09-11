@@ -1,5 +1,5 @@
 // Runtime: 8 ms
-// Memory Usage: 4,3 MB
+// Memory Usage: 4.3 MB
 
 func twoSum(nums []int, target int) []int {
 	m := make(map[int]int)

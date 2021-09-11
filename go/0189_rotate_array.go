@@ -1,5 +1,5 @@
 // Runtime: 32 ms
-// Memory Usage: 8,3 MB
+// Memory Usage: 8.3 MB
 
 func rotate(nums []int, k int) {
 	k = k % len(nums)
