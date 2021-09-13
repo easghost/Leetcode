@@ -1,7 +1,7 @@
+<?php
 // Runtime: 4 ms
 // Memory Usage: 15.6 MB
 
-<?php
 class Solution {
 
     /**
