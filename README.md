@@ -59,7 +59,7 @@
 | 55 | Jump Game | / | / | / | / | / | / |
 | 56 | Merge Intervals | / | / | / | / | / | / |
 | 57 | Insert Interval | / | / | / | / | / | / |
-| 58 | Length of Last Word | / | / | / | / | / | / |
+| 58 | Length of Last Word | / | / | [Solution](https://github.com/norseskull/leetcode_solutions/blob/main/go/0058_length_of_last_word.go) | / | / | / |
 | 59 | Spiral Matrix II | / | / | / | / | / | / |
 | 60 | Permutation Sequence | / | / | / | / | / | / |
 | 61 | Rotate List | / | / | / | / | / | / |
@@ -123,7 +123,7 @@
 | 119 | Pascal's Triangle II | / | / | / | / | / | / |
 | 120 | Triangle | / | / | / | / | / | / |
 | 121 | Best Time to Buy and Sell Stock | / | / | / | / | / | / |
-| 122 | Best Time to Buy and Sell Stock II | / | / | / | / | / | / |
+| 122 | Best Time to Buy and Sell Stock II | / | / | [Solution](https://github.com/norseskull/leetcode_solutions/blob/main/go/0122_best_time_to_buy_and_sell_stock_II.go) | / | / | / |
 | 123 | Best Time to Buy and Sell Stock III | / | / | / | / | / | / |
 | 124 | Binary Tree Maximum Path Sum | / | / | / | / | / | / |
 | 125 | Valid Palindrome | / | / | / | / | / | / |
@@ -190,7 +190,7 @@
 | 186 | Reverse Words in a String II | / | / | / | / | / | / |
 | 187 | Repeated DNA Sequences | / | / | / | / | / | / |
 | 188 | Best Time to Buy and Sell Stock IV | / | / | / | / | / | / |
-| 189 | Rotate Array | / | / | / | / | / | / |
+| 189 | Rotate Array | / | / | [Solution](https://github.com/norseskull/leetcode_solutions/blob/main/go/0189_rotate_array.go) | / | / | / |
 | 190 | Reverse Bits | / | / | / | / | / | / |
 | 191 | Number of 1 Bits | / | / | / | / | / | / |
 | 192 | Word Frequency | / | / | / | / | / | / |
@@ -279,12 +279,12 @@
 | 275 | H-Index II | / | / | / | / | / | / |
 | 276 | Paint Fence | / | / | / | / | / | / |
 | 277 | Find the Celebrity | / | / | / | / | / | / |
-| 278 | First Bad Version | / | / | / | / | / | / |
+| 278 | First Bad Version | / | / | [Solution](https://github.com/norseskull/leetcode_solutions/blob/main/go/0278_first_bad_version.go) | / | / | / |
 | 279 | Perfect Squares | / | / | / | / | / | / |
 | 280 | Wiggle Sort | / | / | / | / | / | / |
 | 281 | Zigzag Iterator | / | / | / | / | / | / |
 | 282 | Expression Add Operators | / | / | / | / | / | / |
-| 283 | Move Zeroes | / | / | / | / | / | / |
+| 283 | Move Zeroes | / | / | [Solution](https://github.com/norseskull/leetcode_solutions/blob/main/go/0283_move_zeroes.go) | / | / | / |
 | 284 | Peeking Iterator | / | / | / | / | / | / |
 | 285 | Inorder Successor in BST | / | / | / | / | / | / |
 | 286 | Walls and Gates | / | / | / | / | / | / |
