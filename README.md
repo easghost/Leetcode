@@ -123,7 +123,7 @@
 | 119 | Pascal's Triangle II | / | / | / | / | / | / |
 | 120 | Triangle | / | / | / | / | / | / |
 | 121 | Best Time to Buy and Sell Stock | / | / | / | / | / | / |
-| 122 | Best Time to Buy and Sell Stock II | / | / | [Solution](https://github.com/norseskull/leetcode_solutions/blob/main/go/0122_best_time_to_buy_and_sell_stock_II.go) | / | / | / |
+| 122 | Best Time to Buy and Sell Stock II | / | [Solution](https://github.com/norseskull/leetcode_solutions/blob/main/kotlin/0122_best_time_to_buy_and_sell_stock_II.kt) | [Solution](https://github.com/norseskull/leetcode_solutions/blob/main/go/0122_best_time_to_buy_and_sell_stock_II.go) | / | / | [Solution](https://github.com/norseskull/leetcode_solutions/blob/main/kphp/0122_best_time_to_buy_and_sell_stock_II.php) |
 | 123 | Best Time to Buy and Sell Stock III | / | / | / | / | / | / |
 | 124 | Binary Tree Maximum Path Sum | / | / | / | / | / | / |
 | 125 | Valid Palindrome | / | / | / | / | / | / |
