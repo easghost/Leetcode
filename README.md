@@ -2,7 +2,7 @@
 
 | Nr. | Title | Java | Kotlin | GO | Python | Python3 | PHP |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1 | Two Sum | / | / | / | / | / | / |
+| 1 | Two Sum | / | / | [Solution](https://github.com/norseskull/leetcode_solutions/blob/main/go/0001_two_sum.go) | / | / | / |
 | 2 | Add Two Numbers | / | / | / | / | / | / |
 | 3 | Longest Substring Without Repeating Characters | / | / | / | / | / | / |
 | 4 | Median of Two Sorted Arrays | / | / | / | / | / | / |
@@ -10,7 +10,7 @@
 | 6 | Zigzag Conversion | / | / | / | / | / | / |
 | 7 | Reverse Integer | / | / | / | / | / | / |
 | 8 | String to Integer (atoi) | / | / | / | / | / | / |
-| 9 | Palindrome Number | / | / | / | / | / | / |
+| 9 | Palindrome Number | / | / | [Solution](https://github.com/norseskull/leetcode_solutions/blob/main/go/0001_two_sum.go) | / | / | / |
 | 10 | Regular Expression Matching | / | / | / | / | / | / |
 | 11 | Container With Most Water | / | / | / | / | / | / |
 | 12 | Integer to Roman | / | / | / | / | / | / |
@@ -36,7 +36,7 @@
 | 32 | Longest Valid Parentheses | / | / | / | / | / | / |
 | 33 | Search in Rotated Sorted Array | / | / | / | / | / | / |
 | 34 | Find First and Last Position of Element in Sorted Array | / | / | / | / | / | / |
-| 35 | Search Insert Position | / | / | / | / | / | / |
+| 35 | Search Insert Position | / | / | [Solution](https://github.com/norseskull/leetcode_solutions/blob/main/go/0035_search_insert_position.go) | / | / | / |
 | 36 | Valid Sudoku | / | / | / | / | / | / |
 | 37 | Sudoku Solver | / | / | / | / | / | / |
 | 38 | Count and Say | / | / | / | / | / | / |
