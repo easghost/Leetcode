@@ -1,8 +1,5 @@
-// Runtime: 5 ms
-// Memory Usage: 2.1 MB
-
 func subtractProductAndSum(n int) int {
-	res, sum := 0, 0
+	sum := 0
 	prod := 1
 	for n > 0 {
 		sum += n % 10
@@ -10,6 +7,5 @@ func subtractProductAndSum(n int) int {
 		n = n / 10
 	}
 
-	res = prod - sum
-	return res
+	return prod - sum
 }
