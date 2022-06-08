@@ -1,4 +1,4 @@
-func runningSum(nums []int) []int {
+	func runningSum(nums []int) []int {
     if len(nums) < 1 {
         return nums
     }
