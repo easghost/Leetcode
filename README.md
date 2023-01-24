@@ -21,6 +21,7 @@
 | 82 | Remove Duplicates from Sorted List II | Medium | [Solution](/0082%20-%20Remove%20Duplicates%20from%20Sorted%20List%20II/) |
 | 83 | Remove Duplicates from Sorted List | Easy | [Solution](/0083%20-%20Remove%20Duplicates%20from%20Sorted%20List/) |
 | 88 | Merge Sorted Array | Easy | [Solution](/0088%20-%20Merge%20Sorted%20Array/) |
+| 100 | Same Tree | Easy | [Solution](/0100%20-%20Same%20Tree/) |
 | 116 | Populating Next Right Pointers in Each Node | Medium | [Solution](/0116%20-%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node/) |
 | 118 | Pascal's Triangle | Easy | [Solution](/0118%20-%20Pascal's%20Triangle/) |
 | 121 | Best Time to Buy and Sell Stock | Easy | [Solution](/0121%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/) |
@@ -58,6 +59,7 @@
 | 881 | Boats to Save People | Medium | [Solution](/0881%20-%20Boats%20to%20Save%20People/) |
 | 896 | Monotonic Array | Easy | [Solution](/0896%20-%20Monotonic%20Array/) |
 | 938 | Range Sum of BST | Easy | [Solution](/0938%20-%20Range%20Sum%20of%20BST/) |
+| 976 | Subarray Sums Divisible by K | Medium | [Solution](/0974%20-%20Subarray%20Sums%20Divisible%20by%20K/) |
 | 976 | Largest Perimeter Triangle | Easy | [Solution](/0976%20-%20Largest%20Perimeter%20Triangle/) |
 | 977 | Squares of a Sorted Array | Easy | [Solution](/0977%20-%20Squares%20of%20a%20Sorted%20Array/) |
 | 991 | Broken Calculator | Medium | [Solution](/0991%20-%20Broken%20Calculator/) |
