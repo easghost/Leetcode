@@ -1,4 +1,4 @@
-# leetcode_solutions
+# Leetcode Solutions
 
 |     Number    | Name | Difficulty | Solution |
 | :-------------: | :----------------------------------------: | :-----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------:
@@ -38,6 +38,7 @@
 | 195 | Tenth Line | Easy | [Solution](/problems/0195%20-%20Tenth%20Line/) |
 | 202 | Happy Number | Easy | [Solution](/problems/0202%20-%20Happy%20Number/) |
 | 226 | Invert Binary Tree | Easy | [Solution](/problems/0226%20-%20Invert%20Binary%20Tree/) |
+| 228 | Summary Ranges | Easy | [Solution](/problems/0228%20-%20Summary%20Ranges/) |
 | 237 | Delete Node in a Linked List | Medium | [Solution](/problems/0237%20-%20Delete%20Node%20in%20a%20Linked%20List/) |
 | 258 | Add Digits | Easy | [Solution](/problems/0258%20-%20Add%20Digits/) |
 | 278 | First Bad Version | Easy | [Solution](/problems/0278%20-%20First%20Bad%20Version/) |
@@ -54,6 +55,7 @@
 | 605 | Can Place Flowers | Easy | [Solution](/problems/0605%20-%20Can%20Place%20Flowers/) |
 | 617 | Merge Two Binary Trees | Easy | [Solution](/problems/0617%20-%20Merge%20Two%20Binary%20Trees/) |
 | 704 | Binary Search | Easy | [Solution](/problems/0704%20-%20Binary%20Search/) |
+| 705 | Design HashSet | Easy | [Solution](/problems/0705%20-%20Design%20HashSet/) |
 | 709 | To Lower Case | Easy | [Solution](/problems/0709%20-%20To%20Lower%20Case/) |
 | 797 | All Paths From Source to Target | Medium | [Solution](/problems/0797%20-%20All%20Paths%20From%20Source%20to%20Target/) |
 | 849 | Maximize Distance to Closest Person | Medium | [Solution](/problems/0849%20-%20Maximize%20Distance%20to%20Closest%20Person/) |
@@ -74,13 +76,15 @@
 | 1281 | Subtract the Product and Sum of Digits of an Integer | Easy | [Solution](/problems/1281%20-%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/) |
 | 1290 | Convert Binary Number in a Linked List to Integer | Easy | [Solution](/problems/1290%20-%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/) |
 | 1332 | Remove Palindromic Subsequences | Easy | [Solution](/problems/1332%20-%20Remove%20Palindromic%20Subsequences/) |
-| 1342 | Number of Steps to Reduce a Number to Zero | Easy | [Solution](/problems/1342%20-%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/) |
+| 1342 | Number of Steps to Reduce a Number to Zero | Easy | [Solution](/problems/1351%20-%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
+| 1351 | Count Negative Numbers in a Sorted Matrix | Easy | [Solution](/problems/1332%20-%20Remove%20Palindromic%20Subsequences/) |
 | 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | [Solution](/problems/1365%20-%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/) |
 | 1389 | Create Target Array in the Given Order | Easy | [Solution](/problems/1389%20-%20Create%20Target%20Array%20in%20the%20Given%20Order/) |
 | 1413 | Minimum Value to Get Positive Step by Step Sum | Easy | [Solution](/problems/1413%20-%20Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum/) |
 | 1446 | Consecutive Characters | Easy | [Solution](/problems/1446%20-%20Consecutive%20Characters/) |
 | 1470 | Shuffle the Array | Easy | [Solution](/problems/1470%20-%20Shuffle%20the%20Array/) |
 | 1480 | Running Sum of 1d Array | Easy | [Solution](/problems/1480%20-%20Running%20Sum%20of%201d%20Array/) |
+| 1491 | Average Salary Excluding the Minimum and Maximum Salary | Easy | [Solution](/problems/1491%20-%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary/) |
 | 1502 | Can Make Arithmetic Progression From Sequence | Easy | [Solution](/problems/1502%20-%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence/) |
 | 1512 | Number of Good Pairs | Easy | [Solution](/problems/1512%20-%20Number%20of%20Good%20Pairs/) |
 | 1523 | Count Odd Numbers in an Interval Range | Easy | [Solution](/problems/1523%20-%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range/) |
