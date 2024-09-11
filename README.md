@@ -1,5 +1,9 @@
 # Leetcode Solutions
 
+[![GitHub last commit](https://img.shields.io/github/last-commit/elevhate/Leetcode)](https://github.com/elevhate/Leetcode/commits/main)
+[![GitHub repo size](https://img.shields.io/github/repo-size/elevhate/Leetcode)](https://github.com/elevhate/Leetcode/archive/main.zip)
+
+
 |     Number    | Name | Difficulty | Solution |
 | :-------------: | :----------------------------------------: | :-----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------:
 | 1 | Two Sum | Easy | [Solution](/problems/0001%20-%20Two%20Sum/) |
