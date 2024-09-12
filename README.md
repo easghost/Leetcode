@@ -17,6 +17,7 @@
 | 26 | Remove Duplicates from Sorted Array | Easy | [Solution](/problems/0026%20-%20Remove%20Duplicates%20from%20Sorted%20Array/) |
 | 27 | Remove Element | Easy | [Solution](/problems/0027%20-%20Remove%20Element/) |
 | 28 | Find the Index of the First Occurrence in a String | Medium | [Solution](/problems/0028%20-%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) |
+| 34 | Find First and Last Position of Element in Sorted Array | Medium | [Solution](/problems/
 | 35 | Search Insert Position | Easy | [Solution](/problems/0035%20-%20Search%20Insert%20Position/) |
 | 58 | Length of Last Word | Easy | [Solution](/problems/0058%20-%20Length%20of%20Last%20Word/) |
 | 70 | Climbing Stairs | Easy | [Solution](/problems/0070%20-%20Climbing%20Stairs/) |
@@ -60,6 +61,7 @@
 | 617 | Merge Two Binary Trees | Easy | [Solution](/problems/0617%20-%20Merge%20Two%20Binary%20Trees/) |
 | 704 | Binary Search | Easy | [Solution](/problems/0704%20-%20Binary%20Search/) |
 | 705 | Design HashSet | Easy | [Solution](/problems/0705%20-%20Design%20HashSet/) |
+| 706 | Design HashMap | Easy | [Solution](/problems/0706%20-%20Design%20HashMap/) |
 | 709 | To Lower Case | Easy | [Solution](/problems/0709%20-%20To%20Lower%20Case/) |
 | 797 | All Paths From Source to Target | Medium | [Solution](/problems/0797%20-%20All%20Paths%20From%20Source%20to%20Target/) |
 | 849 | Maximize Distance to Closest Person | Medium | [Solution](/problems/0849%20-%20Maximize%20Distance%20to%20Closest%20Person/) |
@@ -75,6 +77,7 @@
 | 1010 | Pairs of Songs With Total Durations Divisible by 60 | Medium | [Solution](/problems/1010%20-%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060/) |
 | 1051 | Height Checker | Easy | [Solution](/problems/1051%20-%20Height%20Checker/) |
 | 1108 | Defanging an IP Address | Easy | [Solution](/problems/1108%20-%20Defanging%20an%20IP%20Address/) |
+| 1207 | Unique Number of Occurrences | Easy | [Solution](/problems/1207%20-%20Unique%20Number%20of%20Occurrences/) |
 | 1217 | Minimum Cost to Move Chips to The Same Position | Easy | [Solution](/problems/1217%20-%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position/) |
 | 1232 | Check If It Is a Straight Line | Easy | [Solution](/problems/1232%20-%20Check%20If%20It%20Is%20a%20Straight%20Line/) |
 | 1281 | Subtract the Product and Sum of Digits of an Integer | Easy | [Solution](/problems/1281%20-%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/) |
@@ -97,6 +100,7 @@
 | 1588 | Sum of All Odd Length Subarrays | Easy | [Solution](/problems/1588%20-%20Sum%20of%20All%20Odd%20Length%20Subarrays/) |
 | 1641 | Count Sorted Vowel Strings | Medium | [Solution](/problems/1641%20-%20Count%20Sorted%20Vowel%20Strings/) |
 | 1672 | Richest Customer Wealth | Easy | [Solution](/problems/1672%20-%20Richest%20Customer%20Wealth/) |
+| 1684 | Count the Number of Consistent Strings | Easy | [Solution](/problems/1684%20-%20Count%20the%20Number%20of%20Consistent%20Strings/) |
 | 1720 | Decode XORed Array | Easy | [Solution](/problems/1720%20-%20Decode%20XORed%20Array/) |
 | 1741 | Find Total Time Spent by Each Employee | Easy | [Solution](/problems/1741%20-%20Find%20Total%20Time%20Spent%20by%20Each%20Employee/) |
 | 1757 | Recyclable and Low Fat Products | Easy | [Solution](/problems/1757%20-%20Recyclable%20and%20Low%20Fat%20Products/) |
@@ -110,3 +114,4 @@
 | 2011 | Final Value of Variable After Performing Operations | Easy | [Solution](/problems/2011%20-%20Final%20Value%20of%20Variable%20After%20Performing%20Operations/) |
 | 2089 | Find Target Indices After Sorting Array | Easy | [Solution](/problems/2089%20-%20Find%20Target%20Indices%20After%20Sorting%20Array/) |
 | 2114 | Maximum Number of Words Found in Sentences | Easy | [Solution](/problems/2114%20-%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences/) |
+| 2220 | Minimum Bit Flips to Convert Number | Easy | [Solution](/problems//2220%20-%20Minimum%20Bit%20Flips%20to%20Convert%20Number/) |
