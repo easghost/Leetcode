@@ -17,7 +17,7 @@
 | 26 | Remove Duplicates from Sorted Array | Easy | [Solution](/problems/0026%20-%20Remove%20Duplicates%20from%20Sorted%20Array/) |
 | 27 | Remove Element | Easy | [Solution](/problems/0027%20-%20Remove%20Element/) |
 | 28 | Find the Index of the First Occurrence in a String | Medium | [Solution](/problems/0028%20-%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) |
-| 34 | Find First and Last Position of Element in Sorted Array | Medium | [Solution](/problems/
+| 34 | Find First and Last Position of Element in Sorted Array | Medium | [Solution](/problems/0034%20-%20Find%20First%20ans%20Last%20Position%20of%20Element%20in%20Sorted%20Array/) |
 | 35 | Search Insert Position | Easy | [Solution](/problems/0035%20-%20Search%20Insert%20Position/) |
 | 58 | Length of Last Word | Easy | [Solution](/problems/0058%20-%20Length%20of%20Last%20Word/) |
 | 70 | Climbing Stairs | Easy | [Solution](/problems/0070%20-%20Climbing%20Stairs/) |
