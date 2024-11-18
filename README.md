@@ -55,6 +55,7 @@
 | 442 | Find All Duplicates in an Array | Medium | [Solution](/problems/0442%20-%20Find%20All%20Duplicates%20in%20an%20Array/) |
 | 496 | Next Greater Element I | Easy | [Solution](/problems/0496%20-%20Next%20Greater%20Element%20I/) |
 | 509 | Fibonacci Number | Easy | [Solution](/problems/0509%20-%20Fibonacci%20Number/) |
+| 567 | Permutation in String | Medium | [Solution](/problems/0567%20-%20Permutation%20in%20String/) |
 | 589 | N-ary Tree Preorder Traversal | Easy | [Solution](/problems/0589%20-%20N-ary%20Tree%20Preorder%20Traversal/) |
 | 605 | Can Place Flowers | Easy | [Solution](/problems/0605%20-%20Can%20Place%20Flowers/) |
 | 617 | Merge Two Binary Trees | Easy | [Solution](/problems/0617%20-%20Merge%20Two%20Binary%20Trees/) |
@@ -96,6 +97,7 @@
 | 1572 | Matrix Diagonal Sum | Easy | [Solution](/problems/1572%20-%20Matrix%20Diagonal%20Sum/) |
 | 1588 | Sum of All Odd Length Subarrays | Easy | [Solution](/problems/1588%20-%20Sum%20of%20All%20Odd%20Length%20Subarrays/) |
 | 1641 | Count Sorted Vowel Strings | Medium | [Solution](/problems/1641%20-%20Count%20Sorted%20Vowel%20Strings/) |
+| 1652 | Defuse the Bomb | Easy | [Solution](/problems/1652%20-%20Defuse%20the%20Bomb/) |
 | 1672 | Richest Customer Wealth | Easy | [Solution](/problems/1672%20-%20Richest%20Customer%20Wealth/) |
 | 1720 | Decode XORed Array | Easy | [Solution](/problems/1720%20-%20Decode%20XORed%20Array/) |
 | 1741 | Find Total Time Spent by Each Employee | Easy | [Solution](/problems/1741%20-%20Find%20Total%20Time%20Spent%20by%20Each%20Employee/) |
