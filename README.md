@@ -114,4 +114,5 @@
 | 2011 | Final Value of Variable After Performing Operations | Easy | [Solution](/problems/2011%20-%20Final%20Value%20of%20Variable%20After%20Performing%20Operations/) |
 | 2089 | Find Target Indices After Sorting Array | Easy | [Solution](/problems/2089%20-%20Find%20Target%20Indices%20After%20Sorting%20Array/) |
 | 2114 | Maximum Number of Words Found in Sentences | Easy | [Solution](/problems/2114%20-%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences/) |
-| 2220 | Minimum Bit Flips to Convert Number | Easy | [Solution](/problems//2220%20-%20Minimum%20Bit%20Flips%20to%20Convert%20Number/) |
+| 2220 | Minimum Bit Flips to Convert Number | Easy | [Solution](/problems/2220%20-%20Minimum%20Bit%20Flips%20to%20Convert%20Number/) |
+| 2924 | Find Champion II | Medium | [Solution](/problems/2924%20-%20Find%20Champion%20II/) |
