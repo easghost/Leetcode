@@ -17,7 +17,7 @@
 | 26 | Remove Duplicates from Sorted Array | Easy | [Solution](/problems/0026%20-%20Remove%20Duplicates%20from%20Sorted%20Array/) |
 | 27 | Remove Element | Easy | [Solution](/problems/0027%20-%20Remove%20Element/) |
 | 28 | Find the Index of the First Occurrence in a String | Medium | [Solution](/problems/0028%20-%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) |
-| 34 | Find First and Last Position of Element in Sorted Array | Medium | [Solution](/problems/
+| 34 | Find First and Last Position of Element in Sorted Array | Medium | [Solution](/problems/0034%20-%20Find%20First%20ans%20Last%20Position%20of%20Element%20in%20Sorted%20Array/) |
 | 35 | Search Insert Position | Easy | [Solution](/problems/0035%20-%20Search%20Insert%20Position/) |
 | 58 | Length of Last Word | Easy | [Solution](/problems/0058%20-%20Length%20of%20Last%20Word/) |
 | 70 | Climbing Stairs | Easy | [Solution](/problems/0070%20-%20Climbing%20Stairs/) |
@@ -56,6 +56,7 @@
 | 442 | Find All Duplicates in an Array | Medium | [Solution](/problems/0442%20-%20Find%20All%20Duplicates%20in%20an%20Array/) |
 | 496 | Next Greater Element I | Easy | [Solution](/problems/0496%20-%20Next%20Greater%20Element%20I/) |
 | 509 | Fibonacci Number | Easy | [Solution](/problems/0509%20-%20Fibonacci%20Number/) |
+| 567 | Permutation in String | Medium | [Solution](/problems/0567%20-%20Permutation%20in%20String/) |
 | 589 | N-ary Tree Preorder Traversal | Easy | [Solution](/problems/0589%20-%20N-ary%20Tree%20Preorder%20Traversal/) |
 | 605 | Can Place Flowers | Easy | [Solution](/problems/0605%20-%20Can%20Place%20Flowers/) |
 | 617 | Merge Two Binary Trees | Easy | [Solution](/problems/0617%20-%20Merge%20Two%20Binary%20Trees/) |
@@ -99,6 +100,7 @@
 | 1572 | Matrix Diagonal Sum | Easy | [Solution](/problems/1572%20-%20Matrix%20Diagonal%20Sum/) |
 | 1588 | Sum of All Odd Length Subarrays | Easy | [Solution](/problems/1588%20-%20Sum%20of%20All%20Odd%20Length%20Subarrays/) |
 | 1641 | Count Sorted Vowel Strings | Medium | [Solution](/problems/1641%20-%20Count%20Sorted%20Vowel%20Strings/) |
+| 1652 | Defuse the Bomb | Easy | [Solution](/problems/1652%20-%20Defuse%20the%20Bomb/) |
 | 1672 | Richest Customer Wealth | Easy | [Solution](/problems/1672%20-%20Richest%20Customer%20Wealth/) |
 | 1684 | Count the Number of Consistent Strings | Easy | [Solution](/problems/1684%20-%20Count%20the%20Number%20of%20Consistent%20Strings/) |
 | 1720 | Decode XORed Array | Easy | [Solution](/problems/1720%20-%20Decode%20XORed%20Array/) |
