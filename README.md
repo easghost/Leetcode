@@ -107,10 +107,12 @@
 | 1741 | Find Total Time Spent by Each Employee | Easy | [Solution](/problems/1741%20-%20Find%20Total%20Time%20Spent%20by%20Each%20Employee/) |
 | 1757 | Recyclable and Low Fat Products | Easy | [Solution](/problems/1757%20-%20Recyclable%20and%20Low%20Fat%20Products/) |
 | 1768 | Merge Strings Alternately | Easy | [Solution](/problems/1768%20-%20Merge%20Strings%20Alternately/) |
+| 1790 | Check if One String Swap Can Make Strings Equal | Easy | [Solution](/problems/1790%20-%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal/) |
 | 1795 | Rearrange Products Table | Easy | [Solution](/problems/1795%20-%20Rearrange%20Products%20Table/) |
 | 1822 | Sign of the Product of an Array | Easy | [Solution](/problems/1822%20-%20Sign%20of%20the%20Product%20of%20an%20Array/) |
 | 1832 | Check if the Sentence Is Pangram | Easy | [Solution](/problems/1832%20-%20Check%20if%20the%20Sentence%20Is%20Pangram/) |
 | 1909 | Remove One Element to Make the Array Strictly Increasing | Easy | [Solution](/problems/1909%20-%20Remove%20One%20Element%20to%20Make%20the%20Array%20Strictly%20Increasing/) |
+| 1910 | Remove All Occurrences of a Substring | Medium | [Solution](/problems/1910%20-%20Remove%20All%20Occurrences%20of%20a%20Substring/) |
 | 1920 | Build Array from Permutation | Easy | [Solution](/problems/1920%20-%20Build%20Array%20from%20Permutation/) |
 | 1929 | Concatenation of Array | Easy | [Solution](/problems/1929%20-%20Concatenation%20of%20Array/) |
 | 2011 | Final Value of Variable After Performing Operations | Easy | [Solution](/problems/2011%20-%20Final%20Value%20of%20Variable%20After%20Performing%20Operations/) |
