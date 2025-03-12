@@ -1,7 +1,7 @@
 # Leetcode Solutions
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/elevhate/Leetcode)](https://github.com/elevhate/Leetcode/commits/main)
-[![GitHub repo size](https://img.shields.io/github/repo-size/elevhate/Leetcode)](https://github.com/elevhate/Leetcode/archive/main.zip)
+[![GitHub last commit](https://img.shields.io/github/last-commit/easghost/Leetcode)](https://github.com/easghost/Leetcode/commits/main)
+[![GitHub repo size](https://img.shields.io/github/repo-size/easghost/Leetcode)](https://github.com/easghost/Leetcode/archive/main.zip)
 
 
 |     Number    | Name | Difficulty | Solution |
@@ -119,4 +119,5 @@
 | 2089 | Find Target Indices After Sorting Array | Easy | [Solution](/problems/2089%20-%20Find%20Target%20Indices%20After%20Sorting%20Array/) |
 | 2114 | Maximum Number of Words Found in Sentences | Easy | [Solution](/problems/2114%20-%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences/) |
 | 2220 | Minimum Bit Flips to Convert Number | Easy | [Solution](/problems/2220%20-%20Minimum%20Bit%20Flips%20to%20Convert%20Number/) |
+| 2529 | Maximum Count of Positive Integer and Negative Integer | Easy | [Solution](/problems/2529%20-%20Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/) |
 | 2924 | Find Champion II | Medium | [Solution](/problems/2924%20-%20Find%20Champion%20II/) |
